@@ -15,14 +15,14 @@
 
 
 
-[Atividade 06](https://byjoao1.github.io/Atividade05_Web/)
+[Atividade 06](https://byjoao1.github.io/Atividade06_Web/)
 
 
 
-[Atividade 07](https://byjoao1.github.io/Atividade05_Web/)
+[Atividade 07](https://byjoao1.github.io/Atividade07_Web/)
 
 
-[Atividade 08](https://byjoao1.github.io/Atividade05_Web/)
+[Atividade 08](https://byjoao1.github.io/Atividade08_Web/)
 
 
 [Atividade 09](https://byjoao1.github.io/Atividade05_Web/)
